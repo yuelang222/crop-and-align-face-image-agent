@@ -1,6 +1,7 @@
 # crop-and-align-face-image-agent
 An agent can crop and align face images, which is implemented based on LangChain 0.2.0
 ​
+
 在此地址https://www.dropbox.com/s/zejv9acgk62lfbv/sfd.tar?dl=1下载SFD面部检测模型，放置路径为/lib/sfd
 
 ​填入你的api_key和base_url
