@@ -10,3 +10,6 @@ An agent can crop and align face images, which is implemented based on LangChain
 crop and align工具引用github上的项目，原地址：chi0tzp/FFHQFaceAlignment: Face alignment tool for transforming face images into FFHQ-style. (github.com)
 
 ![image](https://github.com/user-attachments/assets/2b34c622-d7c1-46e4-8208-01da3312f45c)
+![image](https://github.com/user-attachments/assets/670bb2dd-b2df-440a-b406-e51c05000c3c)
+![image](https://github.com/user-attachments/assets/1a03baab-712c-4b51-b515-e95544784146)
+
