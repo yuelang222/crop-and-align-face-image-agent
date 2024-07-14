@@ -163,8 +163,8 @@ tools = [Image_Align()]
 #---------------llm
 from langchain_openai import ChatOpenAI
 import os
-os.environ['OPENAI_API_KEY']="sk-oHD3AclmGGW3T1yl03E396Da555d4a7e82279f7c92070194"
-os.environ['OPENAI_API_BASE'] = "https://api.xiaoai.plus/v1"
+os.environ['OPENAI_API_KEY']="your api key"
+os.environ['OPENAI_API_BASE'] = "base url"
 
 llm = ChatOpenAI(model='gpt-3.5-turbo-0125')
 
